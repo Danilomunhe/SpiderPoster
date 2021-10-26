@@ -8,7 +8,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url(img/capa.png);
+    background-image: url(../img/capa.png);
     background-color: #00000050;
     background-blend-mode: darken;
     background-position: center;
