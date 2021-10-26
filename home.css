@@ -39,6 +39,11 @@ img{
     font-size: 30px;
     color:#fff;
     text-decoration: none;
+    transition: 1s;
+}
+.menu:hover{
+    color:red;
+    transition: 1s;
 }
 .textos{
     font-size: 30px;
@@ -62,6 +67,7 @@ button{
     font-size:  clamp(1px, 5vw, 20px);
     margin-top: 3%;
     margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
 }
 button:hover{
     background-color: blue;
@@ -69,7 +75,8 @@ button:hover{
     border-style:ridge;
     border-color: black;
     cursor: pointer;
-    border-radius: 100px 100px;
+    border-radius: 5px 5px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .link{
     font-size: 20px;
